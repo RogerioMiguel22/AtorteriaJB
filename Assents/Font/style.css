@@ -1,0 +1,63 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?yv7u56');
+  src:  url('fonts/icomoon.eot?yv7u56#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?yv7u56') format('truetype'),
+    url('fonts/icomoon.woff?yv7u56') format('woff'),
+    url('fonts/icomoon.svg?yv7u56#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-sugar_sweet_cupcake_cake_dessert_icon:before {
+  content: "\e90b";
+}
+.icon-menu:before {
+  content: "\e909";
+}
+.icon-cake_dessert_fastfood_food_meal_icon:before {
+  content: "\e901";
+}
+.icon-birthday_cake_celebration_festival_party_icon:before {
+  content: "\e902";
+}
+.icon-chevrons-up:before {
+  content: "\e900";
+}
+.icon-phone:before {
+  content: "\e903";
+}
+.icon-close:before {
+  content: "\e904";
+}
+.icon-facebook:before {
+  content: "\e905";
+}
+.icon-instagram:before {
+  content: "\e906";
+}
+.icon-mail:before {
+  content: "\e907";
+}
+.icon-map-pin:before {
+  content: "\e908";
+}
+.icon-whatsapp:before {
+  content: "\e90a";
+}
